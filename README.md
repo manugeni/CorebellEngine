@@ -6,8 +6,6 @@ README.md
 
 ⚠️ **This project is currently in development and not yet ready for public release. Stay tuned for updates!** ⚠️  
 
----
-
 ## **Table of Contents**  
 1. [Introduction](#introduction)  
 2. [Features](#features)  
@@ -19,8 +17,6 @@ README.md
 8. [Contributing](#contributing)  
 9. [License](#license)  
 
----
-
 ## **Introduction**  
 
 The Corebell Engine aims to empower developers to create:  
@@ -30,8 +26,6 @@ The Corebell Engine aims to empower developers to create:
 
 With a flexible architecture and Python scripting support, developers can rapidly prototype and extend the engine to suit their needs.  
 
----
-
 ## **Features**  
 - **2D Rendering**: Sprite-based rendering, animations, and collision handling.  
 - **3D Rendering**: Modern rendering techniques, including PBR, lighting, and shadow mapping.  
@@ -39,8 +33,6 @@ With a flexible architecture and Python scripting support, developers can rapidl
 - **Python Integration**: Leverage Python for scripting and customization using `PyBind11`.  
 - **Physics**: Integrated 2D and 3D physics systems using industry-standard libraries.  
 - **Editor Support**: (Planned) Tools for creating and editing levels, shaders, and more.  
-
----
 
 ## **Folder Structure**  
 ```plaintext  
@@ -66,9 +58,6 @@ CorebellEngine/
 ├── LICENSE               # License file (TBD)  
 └── README.md             # This file
 
-
----
-
 Applications
 
 The Corebell Engine includes tools and applications to streamline game and tool development.
@@ -79,24 +68,13 @@ Current Applications (Planned Development)
 
 Visual level editor for building and organizing game scenes.
 
-
-
 2. Shader Editor:
 
 Create and test custom shaders in real-time.
 
-
-
 3. Scripting Console:
 
-Interactive Python console for debugging and testing.
-
-
-
-
-
----
-
+Interactive Python console for debugging and testing
 Libraries and Dependencies
 
 Corebell Engine uses the following third-party libraries:
@@ -115,11 +93,7 @@ PyBind11: Python integration.
 
 Dear ImGui: GUI for tools and editors.
 
-
 Additional dependencies will be added as development progresses.
-
-
----
 
 Build Instructions
 
