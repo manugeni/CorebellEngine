@@ -1,8 +1,3 @@
-Alright, Wiz, let me beef up that README.md to perfection. Here’s the updated and more detailed version, covering every angle:
-
-
----
-
 README.md
 
 # Corebell Engine  
